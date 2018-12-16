@@ -6,7 +6,7 @@ use VSamPlugin\Core\Core;
  *
  * @link              victor@victor.com
  * @since             1.0.0
- * @package           Vsam_Currencies
+ * @package           VSam_Currencies
  *
  * @wordpress-plugin
  * Plugin Name:       Название плагина
